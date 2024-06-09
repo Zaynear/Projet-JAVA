@@ -1,0 +1,1091 @@
+Brouillon de depart avec les indications :
+
+Phase 1 :
+Thème d'indice 0 : Sciences avec 20 Questions (6 Facile : 2 Vf, 2 QCM, 2 RC | 8 Moyenne : 2 Vf, 4 QCM, 2 RC | 6 Difficile : 2 Vf, 2 QCM, 2 RC)
+
+Phase 2 :
+Thème d'indice 1 : Sport avec 12 Questions (4 Facile : 1 Vf, 2 QCM, 1 RC | 4 Moyenne : 1 Vf, 2 QCM, 1 RC | 4 Difficile : 1 Vf, 2 QCM, 1 RC)
+Thème d'indice 2 : Histoire avec 12 Questions (4 Facile : 1 Vf, 2 QCM, 1 RC | 4 Moyenne : 1 Vf, 2 QCM, 1 RC | 4 Difficile : 1 Vf, 2 QCM, 1 RC)
+Thème d'indice 4 : CultureGenerale avec 12 Questions (4 Facile : 1 Vf, 2 QCM, 1 RC | 4 Moyenne : 1 Vf, 2 QCM, 1 RC | 4 Difficile : 1 Vf, 2 QCM, 1 RC)
+Thème d'indice 5 : Mythologie avec 12 Questions (4 Facile : 1 Vf, 2 QCM, 1 RC | 4 Moyenne : 1 Vf, 2 QCM, 1 RC | 4 Difficile : 1 Vf, 2 QCM, 1 RC)
+Thème d'indice 6 : Littérature avec 12 Questions (4 Facile : 1 Vf, 2 QCM, 1 RC | 4 Moyenne : 1 Vf, 2 QCM, 1 RC | 4 Difficile : 1 Vf, 2 QCM, 1 RC)
+Thème d'indice 7 : Cinema avec 12 Questions (4 Facile : 1 Vf, 2 QCM, 1 RC | 4 Moyenne : 1 Vf, 2 QCM, 1 RC | 4 Difficile : 1 Vf, 2 QCM, 1 RC)
+
+Phase 3 :
+Thème d'indice 3 : Geographie avec 10 Questions (3 Facile : 1 Vf, 1 QCM, 1 RC | 3 Moyenne : 1 Vf, 1 QCM, 1 RC | 4 Difficile : 1 Vf, 1 QCM, 2 RC)
+Thème d'indice 8 : Economie avec 10 Questions (3 Facile : 1 Vf, 1 QCM, 1 RC | 3 Moyenne : 1 Vf, 1 QCM, 1 RC | 4 Difficile : 1 Vf, 1 QCM, 2 RC)
+Thème d'indice 9 : Musique avec 10 Questions (3 Facile : 1 Vf, 1 QCM, 1 RC | 3 Moyenne : 1 Vf, 1 QCM, 1 RC | 4 Difficile : 1 Vf, 1 QCM, 2 RC)
+
+Nomenclature par type de question:
+
+VF
+
+// texte
+// numéro de la question
+// réponse correcte (true/false)
+// indice thèmes
+
+
+QCM
+
+// La question texte
+// numéro de la question
+// réponse correcte
+// indice thèmes
+// choix 1
+// choix 2
+// choix 3
+
+
+RC
+
+//texte
+//numéro de la question
+//réponse correcte
+//indice thèmes
+
+
+------------------------------------------------ Début du fichier -----------------------------------------------------------
+Question pour un champion !
+
+------------------------------------------------ Phase 1 --------------------------------------------------------------------
+
+VF
+(facile) Les électrons sont plus petit que les atomes ?
+1
+true
+0
+
+
+QCM
+(facile) Quelle est la principale hormone mâle ?
+2
+Testostérone
+0
+estrogènes
+Testostérone
+progestérone
+
+
+RC
+(facile) Quelle est la plus grande planète du système solaire ?
+3
+Jupiter
+0
+
+
+VF
+(facile) Max Planck est le créateur de la Théorie de la relativité restreinte ?
+4
+false
+0
+
+
+QCM
+(facile) Quel est la seule planète à tourner en sens inverse par rapport au autres planètes du système solaire ?
+5
+Vénus
+0
+Neptune
+Vénus
+Uranus
+
+
+RC
+(facile) comment nomme t-on le bruit causé par une onde de choc d'un objet qui atteint une vitesse supérieure à celle du son ?
+6
+BangSupersonique
+0
+
+
+VF
+(moyen) Le volcan Cantalien est le plus actif du monde ?
+7
+false
+0
+
+
+QCM
+(moyen) Comment se nomme le phénomène qui fait que les capsules spatiales chauffent en entrant dans l’atmosphère ?
+8
+Échauffement-aérodynamique
+0
+Échauffement-thermodynamique
+Échauffement-atmosphérique
+Échauffement-aérodynamique
+
+
+RC
+(moyen) Quel est le métal qui à le point de fusion le plus haut ?
+9
+Tungstène
+0
+
+
+VF
+(moyen) la condensation apparaît lorsque la température est réduite à 10 °C ou moins (à pression constante) ?
+10
+true
+0
+
+
+QCM
+(moyen) Quel est La particule la plus rapide ?
+11
+Neutrino
+0
+Neutrino
+Photon
+Gluon
+
+
+RC
+(moyen) Quel est la source des aurores Boréales ?
+12
+LeSoleil
+0
+
+
+QCM
+(moyen) L'intervalle de fréquence audible par l'oreille humaine ?
+13
+20Hz-20kH
+0
+14Hz-14kHz
+20Hz-20kHz
+14kHz-14MHz
+
+
+QCM
+(moyen) la viscosité dynamique de la poix est combien de fois supérieur à celle de l'eau ? (230 milliards )
+14
+230 milliards
+0
+230 milliards
+190 millions
+93 milliards
+
+
+VF
+(Difficile) La molecule responsable du piquant dans le piment est- elle la capsaïcine ?
+15
+true
+0
+
+
+QCM
+(Difficile) quelle est la plus grosse étoile du système solaire ?
+16
+R136a1
+0
+R136a1
+R136a2
+R136a3
+
+
+RC
+(Difficile) Comment se nomme l'effet rotative du ballon lorsqu'il est lancé ou tiré à une vitesse élevée ?
+17
+EffetMagnus
+0
+
+
+VF
+(Difficile) La puissance d'une fusée au décollage est de 12 000 Mégawatts ?
+18
+true
+0
+
+
+QCM
+(Difficile) Qui est le premier à dire que la terre est ronde ?
+19
+Ératosthène
+0
+Daphnis
+Ératosthène
+Amosis
+
+
+RC
+(Difficile) De quel couleur est la partie la plus chaude d'une flamme ?
+20
+Bleue
+0
+
+---------------------------------------------------- Phase 2 -----------------------------------------------------------
+
+---------------------------------------------------- Sport -----------------------------------------------------------
+
+
+VF
+(facile) L'Afrique du sud ont été les gagnant de la Coupe du monde de rugby à XV 2019 ?
+21
+true
+1
+
+
+QCM
+(facile) Dans quel équipe de basketball se trouve le joueur Isaiah Thomas ?
+22
+Lakers
+1
+Celtics
+Bulls
+Lakers
+
+
+RC
+(facile) Quel est le plus grand boxeur de tout les temps ?
+23
+MohamedAli
+1
+
+
+QCM
+(facile) Quel sport de glisse consiste à évoluer avec une planche à la surface d'eau en étant tracté par un cerf-volant spécialement adapté ?
+24
+Le Kitesurf
+1
+Le Kitesurf
+Le Bodysurf
+Le flysurf
+
+
+VF
+(moyen) Il existe une coupe du monde de Quidditch ?
+25
+true
+1
+
+
+QCM
+(moyen) Quel est le pilote de Formule 1 le plus titré à ce jour ? Lewis Hamilton
+26
+Lewis Hamilton
+1
+Alain Prost
+Michael Schumacher
+Lewis Hamilton
+
+
+RC
+(moyen) Quel est le joueur de football avec le plus de but a son actif?
+27
+CristianoRonaldo
+1
+
+
+QCM
+(moyen) Quel invité de renommée mondiale allume la flamme de Jeux olympique pour inauguré les Jeux olympiques de 1996 ?
+28
+Mohamed Ali
+1
+Kobe Bryan
+Mohamed Ali
+Pelé
+
+
+VF
+(Difficile) L'Eukonkanto est-il un sport existant ?
+29
+true
+1
+
+
+QCM
+(Difficile) Qui est grappler avec la plus grande chaine de victoire sans aucune défaite en ufc ? Khabib Nurmagomedov
+30
+Khabib Nurmagomedov
+1
+Khabib Nurmagomedov
+George St-Pierre
+Ronda Rousey
+
+
+RC
+(Difficile) Quel est le joueur de golf le plus riche ?
+31
+TigerWoods
+1
+
+
+QCM
+(Difficile) Dans quel pays se déroule la coupe du monde de 1998 ?
+32
+France
+1
+Brésil
+Italie
+France
+
+---------------------------------------------------- Histoire -----------------------------------------------------------
+
+VF
+(facile) les gagnants de la 1ere guerre mondiale sont la triple entente ?
+33
+true
+2
+
+
+QCM
+(facile) Quels pays composent la Triade ?
+34
+Japon, Etats-Unis et les pays de l'union Européenne
+2
+Japon, Etats-Unis et les pays de l'union Européenne
+Chine, Etats-Unis et les pays de l'union Européenne
+Chine, Etats-Unis et Russie
+
+
+RC
+(facile) En quelle année à eu lieu la révolution française ?
+35
+1789
+2
+
+
+QCM
+(facile) Comment se nomme l'époque du Japon entre 1198 et 1868 à la fin de l'époque d'Edo ?
+36
+Féodale
+2
+Féodale
+Antérieur
+Taishô
+
+
+VF
+(moyen) Les femmes ont  obtenu le droit de vote en 1945 ?
+37
+false
+2
+
+
+QCM
+(moyen) En quelle année la base militaire américaine de Pearl Harbor a-t-elle été attaquée ?
+38
+1941
+2
+1939
+1941
+1940
+
+
+RC
+(moyen) La marche verte marocaine a eu lieu sous le régne de quel roi ?
+39
+Hassan2
+2
+
+
+QCM
+(moyen) En quel année se finit la guerre d'Algérie ?
+40
+1964
+2
+1952
+1964
+1972
+
+
+VF
+(Difficile) L'université la plus ancienne du monde se trouve au Maroc ?
+41
+true
+2
+
+
+QCM
+(Difficile) Quel pays ne fait pas partie des quatre dragons asiatiques ?
+42
+Corée du Sud, Singapour et Hong Kong
+2
+Corée du Sud, Chine et Hong Kong
+Corée du Sud, Japon et Chine
+Corée du Sud, Singapour et Hong Kong
+
+
+RC
+(Difficile) comment se nomme le roi de france avec le règne le plus court ?
+43
+Louis19
+2
+
+
+QCM
+(Difficile) En quel année l'insurréction Malgache pris fin ?
+44
+1947
+2
+1872
+1902
+1947
+
+
+---------------------------------------------------- CultureGenerale ----------------------------------------------------
+
+VF
+(facile) Condescendant est un antonyme du mot présomptueux ?
+45
+false
+4
+
+
+QCM
+(facile) Qu'est donc "le seppuku" ?
+46
+C'est une forme rituelle de suicide masculin par éventration pratiqué par les samouraïs au 12 éme siecle.
+4
+C'est un lieu sacré accessible uniquement pour l'Empereur du Japon et ses proches.
+C'est une forme rituelle de suicide masculin par éventration pratiqué par les samouraïs au 12 éme siecle.
+C'est un plat contenant du poisson frit, des tempura et de la sauce yakitori.
+
+
+RC
+(facile) Quel est le plus grand consommateur de manga apres le japon ?
+47
+France
+4
+
+
+QCM
+(facile) Comment appelle t'on une figure a 10 cotés ?
+48
+décagone
+4
+décagone
+décigone
+pétagone
+
+
+VF
+(moyen) La Lune se rapproche de la Terre ?
+49
+false
+4
+
+
+QCM
+(moyen) Selon certaine religions pourquoi fallait-il mettre la main devant la bouche lorsqu'on baille ?
+50
+Pour empêcher que le diable n’entre par la bouche
+4
+Pour empêcher que le diable n’aspire une partie de la foi
+Pour empêcher que le diable n’entre par la bouche
+Pour empêcher que la langue ne soit vu par une femme et ainsi évité les idées érotiques
+
+
+RC
+(moyen) Quelle année a suivi l’an 1 avant JC ?
+51
+1-AP-JC
+4
+
+
+QCM
+(moyen) Quel fruit contient le plus de vitamine C ?
+52
+Orange
+4
+Clémentine
+Pamplemousse
+Orange
+
+
+VF
+(Difficile) Il fait plus froid au pôle Sud qu’au pôle Nord ?
+53
+true
+4
+
+
+QCM
+(Difficile) Quel est le plus fort des animaux sur terre proportionnellement à sa taille ? c'est le scarabée Onthophagus taurus
+54
+c'est le scarabée Onthophagus taurus
+4
+c'est le scarabée Onthophagus taurus
+c'est l'Hippopotame d'Afrique sub-saharienne
+c'est La fourmis pharaon
+
+
+RC
+(Difficile) Quel est l'animal le plus agressif et le plus dangereux du monde ?
+55
+Ratel
+4
+
+
+QCM
+(Difficile) De quel pays vient le tigre du bengale ?
+56
+Bangladesh
+4
+Bangladesh
+Bénin
+Bengale
+
+
+---------------------------------------------------- Mythologie -----------------------------------------------------------
+
+
+VF
+(facile) Thor est-il le dieu du tonnerre?
+57
+true
+5
+
+
+QCM
+(facile) Dans la mythologie grecque, qui est le roi des dieux?
+58
+Zeus
+5
+Poseidon
+Hades
+Zeus
+
+
+RC
+(facile) De quoi Arès est-il le dieu?
+59
+Guerre
+5
+
+
+QCM
+(facile) Quel héros romain tue le minotaure ?
+60
+Thésée
+5
+Héraclès
+Ulysse
+Thésée
+
+
+VF
+(moyen) Toutatis est-il un dieu gaulois?
+61
+true
+5
+
+
+QCM
+(moyen) Qui est la déesse de la chasse chez les grecques?
+62
+Artémis
+5
+Apollon
+Athéna
+Artémis
+
+
+RC
+(moyen) Zeus et Jupiter sont de quelles mythologies respectives ? (Séparé la réponse par un tiret seulement)
+63
+Grecques-Romaines
+5
+
+
+QCM
+(moyen) Comment se nomme la divinité du soleil dans le shintoïsme?
+64
+Amaterasu
+5
+Izanagi
+Amaterasu
+Susanoo
+
+
+VF
+(Difficile) Chronos est le père d’Ouranos?
+65
+false
+5
+
+
+QCM
+(Difficile) Comment la nymphe Syrinx échappe-t’elle au dieu Pan?
+66
+Elle se change en roseau
+5
+Elle s'envole
+Elle se change en roseau
+Elle se rend invisible
+
+
+RC
+(Difficile) Comment s’appelle le chien d’Ulysse?
+67
+Argos
+5
+
+
+QCM
+(Difficile) Comment se nomme la divinité du serpent à plume du peuple aztéque ?
+68
+Quetzalcoatl
+5
+Tlalocayotl
+Quetzalcoatl
+Huitzilopochtli
+
+
+---------------------------------------------------- Littérature -----------------------------------------------------------
+
+
+VF
+(facile) Notre-Dame de Paris est t-il le premier livre de Victor Hugo
+69
+true
+6
+
+
+QCM
+(facile) Quel est l'œuvre la plus connue de J.K Rowling
+70
+Harry Potter
+6
+Les animaux fantastiques
+Harry Potter
+L'appel du Coucou
+
+
+RC
+(facile) Quel est le manga le plus vendu au monde?
+71
+OnePiece
+6
+
+
+QCM
+(facile) Quel écrivain français à été impliqué dans l'affaire Dreyfus ?
+72
+Zola
+6
+Zola
+Balzac
+Baudelaire
+
+
+VF
+(moyen) Remus Lupin est l'Oncle de Harry Potter dans l'Oeuvre éponyme ?
+73
+false
+6
+
+
+QCM
+(moyen) L'auteur du livre le plus connue en strategie miliaire et qui fut aussi général de guerre ?
+74
+SunTzu
+6
+Xiang Yu
+SunTzu
+Yue Fei
+
+
+RC
+(moyen) La BD française la plus vendu au monde
+75
+Astérix
+6
+
+
+QCM
+(moyen) Qui est l'auteur de Don quichotte de la mancha ?
+76
+Miguel de Cervantes
+6
+Pablo Neruda
+Miguel de Cervantes
+Luis Sepúlveda
+
+
+VF
+(Difficile) La digression est une figure de style.
+77
+true
+6
+
+
+QCM
+(Difficile) Qui est l'amant de Doña Sol dans une des pièces célébres de Victor Hugo ?
+78
+Hernani
+6
+Don Francisco
+Don Carlos
+Hernani
+
+
+RC
+(Difficile) Qui est l'auteur de Candide ou l'ingénu?
+79
+Voltaire
+6
+
+
+QCM
+(Difficile) Qui devient le père adoptif de cosette dans les misérable ?
+80
+Jean Valjean
+6
+Marius
+Javert
+Jean Valjean
+
+
+---------------------------------------------------- Cinéma -----------------------------------------------------------
+
+
+VF
+(facile) Harrison Ford a-t-il joué Indiana Jones?
+81
+true
+7
+
+
+QCM
+(facile) Combien y a-t-il de trilogie à Star Wars?
+82
+3
+7
+2
+3
+1
+
+RC
+(facile) Qui est l’acteur d’Iron Man?
+83
+RobertDowneyJr
+7
+
+
+QCM
+(facile) quel acteur américain joue le role du chapelier fou dans Alice au pays des merveilles ?
+84
+Johnny Depp
+7
+Johnny Depp
+Ben Stiller
+Jim Carrey
+
+
+VF
+(moyen) Ian mckellen est il l’acteur de Gandalf?
+85
+true
+7
+
+
+QCM
+(moyen) Combien d’oscar a gagné Leonardo Di Caprio?
+86
+1
+7
+1
+5
+3
+
+
+RC
+(moyen) Pour quel film Jean Dujardin a gagné son Oscar?
+87
+TheArtist
+7
+
+
+QCM
+(moyen) Quel est le film ayant les meilleurs score au box office de 2019 ?
+88
+Avengers Endgame
+7
+Avengers Endgame
+Joker
+Le roi lion
+
+
+VF
+(Difficile) Avengers Endgame est-il le film le plus rentable de l’histoire?
+89
+false
+7
+
+
+QCM
+(Difficile) Quel est le livre le plus adapté au cinéma?
+90
+Le Barde de William Shakespeare
+7
+Brian de Palma de Stephen King
+Le Barde de William Shakespeare
+Les Trois Mousquetaires de Alexandre Dumas
+
+
+RC
+(Difficile) Qui est l‘acteur qui a joué dans les deux seuls films à 9 oscars?
+91
+BernardHill
+7
+
+
+QCM
+(Difficile) Comment se nomme l'acteur qui joue le role de Mr Bean ?
+92
+Rowan Atkinson
+7
+Rowan Atkinson
+Edd Byrnes
+Alec Baldwin
+
+
+---------------------------------------------------- Phase 3 -----------------------------------------------------------
+
+---------------------------------------------------- Geographie --------------------------------------------------------
+
+
+VF
+(facile) Rome est-elle la capitale de l’Italie?
+93
+true
+3
+
+
+QCM
+(facile) Quelle est la capitale de la France?
+94
+Paris
+3
+Paris
+Nanterre
+Mantes la Jolie
+
+
+RC
+(facile) Quelle est la capitale de la Suisse?
+95
+Berne
+3
+
+
+VF
+(moyen) Le Bénin se situe au Moyen-Orient?
+96
+false
+3
+
+
+QCM
+(moyen) Quelle est la capitale de la Suède?
+97
+Stockholm
+3
+Stockholm
+Falun
+Kiruna
+
+
+RC
+(moyen) Dans quel Océan se situe les îles kiribati?
+98
+Pacifique
+3
+
+
+VF
+(Difficile) Y-a-il des états en Allemagne?
+99
+true
+3
+
+
+QCM
+(Difficile) Quelle est la capitale du Swaziland?
+100
+Mbabane
+3
+Siteki
+Manzini
+Mbabane
+
+
+RC
+(Difficile) Quelle est la capitale du Brunei?
+101
+BandarSeriBegawan
+3
+
+
+RC
+(Difficile) Quel est le plus quartier d'Europe ?
+102
+leValFourrée
+3
+
+
+---------------------------------------------------- Economie -----------------------------------------------------------
+
+
+VF
+(facile) Etablir les soldes intermédiaires de gestion est une obligation fiscale?
+103
+false
+8
+
+
+QCM
+(facile) Que signifie PIB?
+104
+Produit intérieur brut
+8
+Produit international brut
+Prix intérieur Brut
+Produit intérieur brut
+
+
+RC
+(facile) Qui est le ministre de l’économie français?
+105
+BrunoLeMaire
+8
+
+
+VF
+(moyen) La production de l'exercice représente le poids industriel d'une entreprise?
+106
+true
+8
+
+
+QCM
+(moyen) Qu’est ce que l’EBE?
+107
+C'est le potentiel de trésorerie de l'entreprise
+8
+C'est le potentiel de trésorerie de l'entreprise
+C'est le seuil maximum de perte dans la trésorerie de l'entreprise
+C'est la taxe partimoniale que doit payé l'entreprise
+
+
+RC
+(moyen) Comment nomme t'on les fond d'une entreprise ?
+108
+Trésorerie
+8
+
+
+VF
+(Difficile) Les emplois stables comprennent-ils les immobilisations?
+109
+true
+8
+
+
+QCM
+(Difficile) L'augmentation du FR peut être la conséquence ?
+110
+D'une baisse des emplois stables
+8
+D'une hausse des emplois stable
+D'une baisse des emplois stables
+D'une hausse des emplois circulant
+
+
+RC
+(Difficile) Qu’est-ce que La différence entre le FR et BFR ?
+111
+Trésorerie
+8
+
+
+RC
+(Difficile) Quel est le plus quartier d'affaire Europe ?
+112
+LaDéfense
+8
+
+
+---------------------------------------------------- Musique -----------------------------------------------------------
+
+
+VF
+(facile) Vivaldi a composé «Les quatres saisons?
+113
+true
+9
+
+
+QCM
+(facile) Laquelle des ces trois radios donne son nom à une distinction musiquale
+114
+NRJ
+9
+SKYROCK
+NRJ
+BEURFM
+
+
+RC
+(facile) Quel est l’interprète original de «Allumer le feu»?
+115
+JohnnyHallyday
+9
+
+
+VF
+(moyen) Kaaris a fait un feat avec Booba?
+116
+true
+9
+
+
+QCM
+(moyen) De quel pays vient le trio pop emblématique A-ha?
+117
+Norvège
+9
+Norvège
+Roumanie
+Ukraine
+
+
+RC
+(moyen) Quel acteur a chanté en final de coupe du monde de football2018?
+118
+WillSmith
+9
+
+
+VF
+(Difficile) Michael Jackson a fait ses débuts au moonwalk de sa marque au cours de Billie Jean.
+119
+true
+9
+
+
+QCM
+(Difficile) Quel a été le single le plus vendu des années 90?
+120
+Candle in the wind d’Elton John
+9
+Barbie Girl d’Aqua
+Candle in the wind d’Elton John
+Ice Ice Baby de Vanilla Ice
+
+
+RC
+(Difficile) Eminem a sorti son album éponyme (du nom de lui-même) en 2000, comment s'appelait-il?
+121
+TheMarshallMathersLP
+9
+
+
+RC
+(Difficile) Quel est la musique iconique la plus connu de pharell williams ?
+122
+Happy
+9
+
+-------------------------------------------------------- Fin -----------------------------------------------------------

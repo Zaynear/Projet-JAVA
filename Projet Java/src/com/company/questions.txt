@@ -1,0 +1,788 @@
+Question pour un champion !
+---
+VF
+(facile) Les électrons sont plus petit que les atomes ?
+true
+0
+---
+QCM
+(facile) Quelle est la principale hormone mâle ?
+Testostérone
+0
+Estrogènes
+Testostérone
+Progestérone
+---
+RC
+(facile) Quelle est la plus grande planète du système solaire ?
+Jupiter
+0
+---
+VF
+(facile) Max Planck est le créateur de la Théorie de la relativité restreinte ?
+false
+0
+---
+QCM
+(facile) Quel est la seule planète à tourner en sens inverse par rapport au autres planètes du système solaire ?
+Vénus
+0
+Neptune
+Vénus
+Uranus
+---
+RC
+(facile) comment nomme t-on le bruit causé par une onde de choc d'un objet qui atteint une vitesse supérieure à celle du son ?
+Bang Supersonique
+0
+---
+VF
+(moyen) Le volcan Cantalien est le plus actif du monde ?
+false
+0
+---
+QCM
+(moyen) Comment se nomme le phénomène qui fait que les capsules spatiales chauffent en entrant dans l’atmosphère ?
+Échauffement aérodynamique
+0
+Échauffement thermodynamique
+Échauffement atmosphérique
+Échauffement aérodynamique
+---
+RC
+(moyen) Quel est le métal qui à le point de fusion le plus haut ?
+Tungstène
+0
+---
+VF
+(moyen) la condensation apparaît lorsque la température est réduite à 10 °C ou moins (à pression constante) ?
+true
+0
+---
+QCM
+(moyen) Quel est La particule la plus rapide ?
+Neutrino
+0
+Neutrino
+Photon
+Gluon
+---
+RC
+(moyen) Quel est la source des aurores Boréales ?
+Le Soleil
+0
+---
+QCM
+(moyen) L'intervalle de fréquence audible par l'oreille humaine ?
+20Hz-20kH
+0
+14Hz-14kHz
+20Hz-20kHz
+14kHz-14MHz
+---
+QCM
+(moyen) la viscosité dynamique de la poix est combien de fois supérieur à celle de l'eau ?
+230 milliards
+0
+230 milliards
+190 millions
+93 milliards
+---
+VF
+(Difficile) La molecule responsable du piquant dans le piment est- elle la capsaïcine ?
+true
+0
+---
+QCM
+(Difficile) quelle est la plus grosse étoile du système solaire ?
+R136a1
+0
+R136a1
+R136a2
+R136a3
+---
+RC
+(Difficile) Comment se nomme l'effet rotative du ballon lorsqu'il est lancé ou tiré à une vitesse élevée ?
+Effet Magnus
+0
+---
+VF
+(Difficile) La puissance d'une fusée au décollage est de 12 000 Mégawatts ?
+true
+0
+---
+QCM
+(Difficile) Qui est le premier à dire que la terre est ronde ?
+Ératosthène
+0
+Daphnis
+Ératosthène
+Amosis
+---
+RC
+(Difficile) De quel couleur est la partie la plus chaude d'une flamme ?
+Bleue
+0
+Theme !
+---------------------------------------------------- Sport -----------------------------------------------------------
+---
+VF
+(facile) L'Afrique du sud ont été les gagnant de la Coupe du monde de rugby à XV 2019 ?
+true
+1
+---
+QCM
+(facile) Dans quel équipe de basketball se trouve le joueur Isaiah Thomas ?
+Lakers
+1
+Celtics
+Bulls
+Lakers
+---
+RC
+(facile) Quel est le plus grand boxeur de tout les temps ?
+Mohamed Ali
+1
+---
+QCM
+(facile) Quel sport de glisse consiste à évoluer avec une planche à la surface d'eau en étant tracté par un cerf-volant spécialement adapté ?
+Le Kitesurf
+1
+Le Kitesurf
+Le Bodysurf
+Le flysurf
+---
+VF
+(moyen) Il existe une coupe du monde de Quidditch ?
+true
+1
+---
+QCM
+(moyen) Quel est le pilote de Formule 1 le plus titré à ce jour ? Lewis Hamilton
+Lewis Hamilton
+1
+Alain Prost
+Michael Schumacher
+Lewis Hamilton
+---
+RC
+(moyen) Quel est le joueur de football avec le plus de but a son actif?
+Cristiano Ronaldo
+1
+---
+QCM
+(moyen) Quel invité de renommée mondiale allume la flamme de Jeux olympique pour inauguré les Jeux olympiques de 1996 ?
+Mohamed Ali
+1
+Kobe Bryant
+Mohamed Ali
+Pelé
+---
+VF
+(Difficile) L'Eukonkanto est-il un sport existant ?
+true
+1
+---
+QCM
+(Difficile) Qui est grappler avec la plus grande chaine de victoire sans aucune défaite en ufc ?
+Khabib Nurmagomedov
+1
+Khabib Nurmagomedov
+George St-Pierre
+Ronda Rousey
+---
+RC
+(Difficile) Quel est le joueur de golf le plus riche ?
+Tiger Woods
+1
+---
+QCM
+(Difficile) Dans quel pays se déroule la coupe du monde de 1998 ?
+France
+1
+Brésil
+Italie
+France
+Theme !
+---------------------------------------------------- Histoire -----------------------------------------------------------
+---
+VF
+(facile) les gagnants de la 1ere guerre mondiale sont la triple entente ?
+true
+2
+---
+QCM
+(facile) Quels pays composent la Triade ?
+Japon, Etats-Unis et les pays de l'union Européenne
+2
+Japon, Etats-Unis et les pays de l'union Européenne
+Chine, Etats-Unis et les pays de l'union Européenne
+Chine, Etats-Unis et Russie
+---
+RC
+(facile) En quelle année à eu lieu la révolution française ?
+1789
+2
+---
+QCM
+(facile) Comment se nomme l'époque du Japon entre 1198 et 1868 à la fin de l'époque d'Edo ?
+Féodale
+2
+Féodale
+Antérieur
+Taishô
+---
+VF
+(moyen) Les femmes ont  obtenu le droit de vote en 1945 ?
+false
+2
+---
+QCM
+(moyen) En quelle année la base militaire américaine de Pearl Harbor a-t-elle été attaquée ?
+1941
+2
+1939
+1941
+1940
+---
+RC
+(moyen) La marche verte marocaine a eu lieu sous le régne de quel roi ?
+Hassan 2
+2
+---
+QCM
+(moyen) En quel année s'est finit la guerre d'Algérie ?
+1964
+2
+1952
+1964
+1972
+---
+VF
+(Difficile) L'université la plus ancienne du monde se trouve au Maroc ?
+true
+2
+---
+QCM
+(Difficile) Quel pays font partie des quatre dragons asiatiques ?
+Corée du Sud, Singapour et Hong Kong
+2
+Corée du Sud, Chine et Hong Kong
+Corée du Sud, Japon et Chine
+Corée du Sud, Singapour et Hong Kong
+---
+RC
+(Difficile) comment se nomme le roi de france avec le règne le plus court ?
+Louis 19
+2
+---
+QCM
+(Difficile) En quel année l'insurréction Malgache pris fin ?
+1947
+2
+1872
+1902
+1947
+Theme !
+---------------------------------------------------- CultureGenerale ----------------------------------------------------
+---
+VF
+(facile) Condescendant est un antonyme du mot présomptueux ?
+false
+4
+---
+QCM
+(facile) Qu'est donc "le seppuku" ?
+C'est une forme rituelle de suicide masculin par éventration pratiqué par les samouraïs au 12 éme siecle.
+4
+C'est un lieu sacré accessible uniquement pour l'Empereur du Japon et ses proches.
+C'est une forme rituelle de suicide masculin par éventration pratiqué par les samouraïs au 12 éme siecle.
+C'est un plat contenant du poisson frit, des tempura et de la sauce yakitori.
+---
+RC
+(facile) Quel est le plus grand consommateur de manga apres le japon ?
+La France
+4
+---
+QCM
+(facile) Comment appelle t'on une figure a 10 cotés ?
+décagone
+4
+décagone
+décigone
+pétagone
+---
+VF
+(moyen) La Lune se rapproche de la Terre ?
+false
+4
+---
+QCM
+(moyen) Selon certaine religions pourquoi fallait-il mettre la main devant la bouche lorsqu'on baille ?
+Pour empêcher que le diable n’entre par la bouche
+4
+Pour empêcher que le diable n’aspire une partie de la foi
+Pour empêcher que le diable n’entre par la bouche
+Pour empêcher que la langue ne soit vu par une femme et ainsi évité les idées érotiques
+---
+RC
+(moyen) Quelle année a suivi l’an 1 avant JC ? (réponse attendue sous forme X XX XX)
+1 AP JC
+4
+---
+QCM
+(moyen) Quel fruit contient le plus de vitamine C ?
+Orange
+4
+Clémentine
+Pamplemousse
+Orange
+---
+VF
+(Difficile) Il fait plus froid au pôle Sud qu’au pôle Nord ?
+true
+4
+---
+QCM
+(Difficile) Quel est le plus fort des animaux sur terre proportionnellement à sa taille ?
+c'est le scarabée Onthophagus taurus
+4
+c'est le scarabée Onthophagus taurus
+c'est l'Hippopotame d'Afrique sub-saharienne
+c'est La fourmis pharaon
+---
+RC
+(Difficile) Quel est l'animal le plus agressif et le plus dangereux du monde ?
+Le Ratel
+4
+---
+QCM
+(Difficile) De quel pays vient le tigre du bengale ?
+Bangladesh
+4
+Bangladesh
+Bénin
+Bengale
+Theme !
+---------------------------------------------------- Mythologie -----------------------------------------------------------
+---
+VF
+(facile) Thor est-il le dieu du tonnerre?
+true
+5
+---
+QCM
+(facile) Dans la mythologie grecque, qui est le roi des dieux?
+Zeus
+5
+Poseidon
+Hades
+Zeus
+---
+RC
+(facile) De quoi Arès est-il le dieu?
+La Guerre
+5
+---
+QCM
+(facile) Quel héros romain tue le minotaure ?
+Thésée
+5
+Héraclès
+Ulysse
+Thésée
+---
+VF
+(moyen) Toutatis est-il un dieu gaulois?
+true
+5
+---
+QCM
+(moyen) Qui est la déesse de la chasse chez les grecques?
+Artémis
+5
+Apollon
+Athéna
+Artémis
+---
+RC
+(moyen) Zeus et Jupiter sont de quelles mythologies respectives ? (Séparer les réponses par un tiret seulement)
+Grecques-Romaines
+5
+---
+QCM
+(moyen) Comment se nomme la divinité du soleil dans le shintoïsme?
+Amaterasu
+5
+Izanagi
+Amaterasu
+Susanoo
+---
+VF
+(Difficile) Chronos est le père d’Ouranos?
+false
+5
+---
+QCM
+(Difficile) Comment la nymphe Syrinx échappe-t’elle au dieu Pan?
+Elle se change en roseau
+5
+Elle s'envole
+Elle se change en roseau
+Elle se rend invisible
+---
+RC
+(Difficile) Comment s’appelle le chien d’Ulysse?
+Argos
+5
+---
+QCM
+(Difficile) Comment se nomme la divinité du serpent à plume du peuple aztéque ?
+Quetzalcoatl
+5
+Tlalocayotl
+Quetzalcoatl
+Huitzilopochtli
+Theme !
+---------------------------------------------------- Littérature -----------------------------------------------------------
+---
+VF
+(facile) Notre-Dame de Paris est t-il le premier livre de Victor Hugo
+true
+6
+---
+QCM
+(facile) Quel est l'œuvre la plus connue de J.K Rowling
+Harry Potter
+6
+Les animaux fantastiques
+Harry Potter
+L'appel du Coucou
+---
+RC
+(facile) Quel est le manga le plus vendu au monde?
+One Piece
+6
+---
+QCM
+(facile) Quel écrivain français à été impliqué dans l'affaire Dreyfus ?
+Zola
+6
+Zola
+Balzac
+Baudelaire
+---
+VF
+(moyen) Remus Lupin est l'Oncle de Harry Potter dans l'Oeuvre éponyme ?
+false
+6
+---
+QCM
+(moyen) L'auteur du livre le plus connue en strategie miliaire et qui fut aussi général de guerre ?
+SunTzu
+6
+Xiang Yu
+SunTzu
+Yue Fei
+---
+RC
+(moyen) La BD française la plus vendu au monde
+Astérix
+6
+---
+QCM
+(moyen) Qui est l'auteur de Don quichotte de la mancha ?
+Miguel de Cervantes
+6
+Pablo Neruda
+Miguel de Cervantes
+Luis Sepúlveda
+---
+VF
+(Difficile) La digression est une figure de style.
+true
+6
+---
+QCM
+(Difficile) Qui est l'amant de Doña Sol dans une des pièces célébres de Victor Hugo ?
+Hernani
+6
+Don Francisco
+Don Carlos
+Hernani
+---
+RC
+(Difficile) Qui est l'auteur de Candide ou l'ingénu?
+Voltaire
+6
+---
+QCM
+(Difficile) Qui devient le père adoptif de cosette dans les misérable ?
+Jean Valjean
+6
+Marius
+Javert
+Jean Valjean
+Theme !
+---------------------------------------------------- Cinéma -----------------------------------------------------------
+---
+VF
+(facile) Harrison Ford a-t-il joué Indiana Jones?
+true
+7
+---
+QCM
+(facile) Combien y a-t-il de trilogie à Star Wars?
+3
+7
+2
+3
+1
+---
+RC
+(facile) Qui est l’acteur d’Iron Man?
+Robert Downey Jr
+7
+---
+QCM
+(facile) quel acteur américain joue le role du chapelier fou dans Alice au pays des merveilles ?
+Johnny Depp
+7
+Johnny Depp
+Ben Stiller
+Jim Carrey
+---
+VF
+(moyen) Ian mckellen est il l’acteur de Gandalf?
+true
+7
+---
+QCM
+(moyen) Combien d’oscar a gagné Leonardo Di Caprio?
+1
+7
+1
+5
+3
+---
+RC
+(moyen) Pour quel film Jean Dujardin a gagné son Oscar?
+The Artist
+7
+---
+QCM
+(moyen) Quel est le film ayant les meilleurs score au box office de 2019 ?
+Avengers Endgame
+7
+Avengers Endgame
+Joker
+Le roi lion
+---
+VF
+(Difficile) Avengers Endgame est-il le film le plus rentable de l’histoire?
+false
+7
+---
+QCM
+(Difficile) Quel est le livre le plus adapté au cinéma?
+Le Barde de William Shakespeare
+7
+Brian de Palma de Stephen King
+Le Barde de William Shakespeare
+Les Trois Mousquetaires de Alexandre Dumas
+---
+RC
+(Difficile) Qui est l‘acteur qui a joué dans les deux seuls films à 9 oscars?
+Bernard Hill
+7
+---
+QCM
+(Difficile) Comment se nomme l'acteur qui joue le role de Mr Bean ?
+Rowan Atkinson
+7
+Rowan Atkinson
+Edd Byrnes
+Alec Baldwin
+Theme !
+---------------------------------------------------- Geographie --------------------------------------------------------
+---
+VF
+(facile) Rome est-elle la capitale de l’Italie?
+true
+3
+---
+QCM
+(facile) Quelle est la capitale de la France?
+Paris
+3
+Paris
+Nanterre
+Mantes la Jolie
+---
+RC
+(facile) Quelle est la capitale de la Suisse?
+Berne
+3
+---
+VF
+(moyen) Le Bénin se situe au Moyen-Orient?
+false
+3
+---
+QCM
+(moyen) Quelle est la capitale de la Suède?
+Stockholm
+3
+Stockholm
+Falun
+Kiruna
+---
+RC
+(moyen) Dans quel Océan se situe les îles kiribati?
+Pacifique
+3
+---
+VF
+(Difficile) Y-a-il des états en Allemagne?
+true
+3
+---
+QCM
+(Difficile) Quelle est la capitale du Swaziland?
+Mbabane
+3
+Siteki
+Manzini
+Mbabane
+---
+RC
+(Difficile) Quelle est la capitale du Brunei?
+Bandar Seri Begawan
+3
+---
+RC
+(Difficile) Quel est le plus grand quartier d'Europe ?
+Le Val Fourrée
+3
+Theme !
+---------------------------------------------------- Economie -----------------------------------------------------------
+---
+VF
+(facile) Etablir les soldes intermédiaires de gestion est une obligation fiscale?
+false
+8
+---
+QCM
+(facile) Que signifie PIB?
+Produit intérieur brut
+8
+Produit international brut
+Prix intérieur Brut
+Produit intérieur brut
+---
+RC
+(facile) Qui est le ministre de l’économie français?
+Bruno LeMaire
+8
+---
+VF
+(moyen) La production de l'exercice représente le poids industriel d'une entreprise?
+true
+8
+---
+QCM
+(moyen) Qu’est ce que l’EBE?
+C'est le potentiel de trésorerie de l'entreprise
+8
+C'est le potentiel de trésorerie de l'entreprise
+C'est le seuil maximum de perte dans la trésorerie de l'entreprise
+C'est la taxe partimoniale que doit payé l'entreprise
+---
+RC
+(moyen) Comment nomme t'on les fond d'une entreprise ?
+Trésorerie
+8
+---
+VF
+(Difficile) Les emplois stables comprennent-ils les immobilisations?
+true
+8
+---
+QCM
+(Difficile) L'augmentation du Fond de Roulement d'une entreprise peut être la conséquence ?
+D'une baisse des emplois stables
+8
+D'une hausse des emplois stable
+D'une baisse des emplois stables
+D'une hausse des emplois circulant
+---
+RC
+(Difficile) Qu’est-ce que La différence entre le FR et BFR ?
+Trésorerie
+8
+---
+RC
+(Difficile) Quel est le plus grand quartier d'affaire Europe ?
+La Défense
+8
+Theme !
+---------------------------------------------------- Musique -----------------------------------------------------------
+---
+VF
+(facile) Vivaldi a composé «Les quatres saisons?
+true
+9
+---
+QCM
+(facile) Laquelle des ces trois radios donne son nom à une distinction musiquale
+NRJ
+9
+SKYROCK
+NRJ
+BEURFM
+---
+RC
+(facile) Quel est l’interprète original de «Allumer le feu»?
+Johnny Hallyday
+9
+---
+VF
+(moyen) Kaaris a fait un feat avec Booba?
+true
+9
+---
+QCM
+(moyen) De quel pays vient le trio pop emblématique A-ha?
+Norvège
+9
+Norvège
+Roumanie
+Ukraine
+---
+RC
+(moyen) Quel acteur a chanté en final de coupe du monde de football2018?
+Will Smith
+9
+---
+VF
+(Difficile) Michael Jackson a fait ses débuts au moonwalk de sa marque au cours de Billie Jean.
+true
+9
+---
+QCM
+(Difficile) Quel a été le single le plus vendu des années 90?
+Candle in the wind d’Elton John
+9
+Barbie Girl d’Aqua
+Candle in the wind d’Elton John
+Ice Ice Baby de Vanilla Ice
+---
+RC
+(Difficile) Eminem a sorti son album éponyme (du nom de lui-même) en 2000, comment s'appelait-il?
+The Marshall Mathers LP
+9
+---
+RC
+(Difficile) Quel est la musique iconique la plus connu de pharell williams ?
+Happy
+9
